@@ -1,34 +1,47 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Barbosa":
+  - firstname: ["Manuel", "M."]
+    url: https://www.dcc.fc.up.pt/~mbb/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Schwabe":
+  - firstname: ["Peter", "P."]
+    url: https://cryptojedi.org/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Westerbaan":
+  - firstname: ["Bas", "B."]
+    url: https://bas.westerbaan.name/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Amadori":
+  - firstname: ["Alessandro", "A."]
+    url: https://scholar.google.com/citations?user=eqHH-lQAAAAJ
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Spini":
+  - firstname: ["Gabriele", "G."]
+    url: https://www.linkedin.com/in/gabrielespini
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Attema":
+  - firstname: ["Thomas", "T."]
+    url: https://www.cwi.nl/en/people/thomas-attema/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Dunning":
+  - firstname: ["Vincent", "V."]
+    url: https://scholar.google.com/citations?user=Mikys9gAAAAJ
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"van der Schoot":
+  - firstname: ["Ward", "W."]
+    url: hhttps://www.linkedin.com/in/ward-van-der-schoot-403bb195
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Stevens":
+  - firstname: ["Marc", "M."]
+    url: https://www.marc-stevens.nl/research/
+
+"Lequesne":
+  - firstname: ["Matthieu", "M."]
+    url: https://lqsn.fr/
+
+"Connolly":
+  - firstname: ["Deirdre", "D."]
+    url: https://dconnolly.github.io/
+
+"Varner":
+- firstname: ["Karolin", "K."]
+  url: https://cupdev.net/blog/
