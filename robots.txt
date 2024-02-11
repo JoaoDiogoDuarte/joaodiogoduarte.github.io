@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://joaodiogoduarte.github.io/al-folio/sitemap.xml
+Sitemap: https://joaodiogoduarte.github.io/sitemap.xml
