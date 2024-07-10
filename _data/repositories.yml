@@ -2,10 +2,11 @@ github_users:
   - joaodiogoduarte
 
 github_repos:
-  - JoaoDiogoDuarte/joaodiogoduarte.github.io
-  - JoaoDiogoDuarte/libjade
-  - JoaoDiogoDuarte/hakyber
+  - formosa-crypto/libjade
+  - JoaoDiogoDuarte/libjade-scalarmult-correctness-proof
   - JoaoDiogoDuarte/xwing
+  - JoaoDiogoDuarte/libjade
+  - JoaoDiogoDuarte/xwing-bennchmarks
   - JoaoDiogoDuarte/Optimal-Parameters-and-Complexity-for-Crossbred-Algorithm
   - JoaoDiogoDuarte/xmss-reference-binsec-rel
   - TNO-MPC/mpyc.statistics
