@@ -4,9 +4,9 @@ github_users:
 github_repos:
   - formosa-crypto/libjade
   - JoaoDiogoDuarte/libjade-scalarmult-correctness-proof
-  - JoaoDiogoDuarte/xwing
+  - https://github.com/X-Wing-KEM-Team/xwing
   - JoaoDiogoDuarte/libjade
-  - JoaoDiogoDuarte/xwing-bennchmarks
+  - X-Wing-KEM-Team/xwing-benchmarks
   - JoaoDiogoDuarte/Optimal-Parameters-and-Complexity-for-Crossbred-Algorithm
   - JoaoDiogoDuarte/xmss-reference-binsec-rel
   - TNO-MPC/mpyc.statistics
