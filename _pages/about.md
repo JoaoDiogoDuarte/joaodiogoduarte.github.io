@@ -15,4 +15,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is João Diogo Duarte and I am a PhD Cryptography Student at the University of Porto and INESC-TEC under the supervision of Professor Manuel Barbosa. In my work, I enjoy demonstrating security of post-quantum schemes and researching post-quantum migration of systems through the design, security proofs, verification and validation of high-assurance implementations and specifications of PQC and hybrid protocols.
+My name is João Diogo Duarte, and I am a PhD student in Cryptography at the University of Porto and INESC-TEC, under the supervision of Professor Manuel Barbosa. My research focuses on formally proving the correctness and security of cryptographic schemes, and on post-quantum migration of systems. This involves analysing and expanding upon the design, security proofs, and validation of high-assurance implementations and specifications of post-quantum cryptography (PQC) and hybrid protocols.
