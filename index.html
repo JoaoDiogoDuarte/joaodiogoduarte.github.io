@@ -4,25 +4,75 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>João Diogo Duarte</title>
+    <link rel="alternate" type="application/rss+xml" href="/blog/index.xml" title="João Diogo Duarte · Blog">
     <style>
+        /* Same look as the blog (diogoduarte.pt/blog): Times, default link colours, <hr> rules. */
+        :root {
+            --paper: #ffffff;
+            --ink: #000000;
+            --link: #0000ee;
+            --visited: #551a8b;
+            --active: #ee0000;
+            --rule: #808080;
+            color-scheme: light;
+        }
+
+        body {
+            max-width: 40em;
+            margin: 0 auto;
+            padding: 1em 16px 2em;
+            background: var(--paper);
+            color: var(--ink);
+            font-family: "Times New Roman", Times, serif;
+            font-size: 1.2rem;
+            line-height: 1.55;
+        }
+
+        a { color: var(--link); }
+        a:visited { color: var(--visited); }
+        a:active { color: var(--active); }
+
+        hr {
+            border: 0;
+            border-top: 1px solid var(--rule);
+            border-bottom: 1px solid #e0e0e0;
+            margin: 1.5em 0;
+        }
+
+        h1 { margin: 0.3em 0 0.1em; }
+        h2 { font-size: 1.4em; margin: 0.5em 0; }
+        .nav { margin: 0; }
+
         .image-container {
             display: flex;
-            align-items: center;  
-            gap: 20px;         
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 20px;
         }
+        .image-container img { max-width: 100%; height: auto; }
+
+        p, li { text-wrap: pretty; }
+        ul { padding-left: 1.5em; }
+        li { margin: 0.3em 0; }
+
+        .footer { font-size: 0.9em; }
     </style>
 </head>
 <body>
-    <div>
-        <h1>João Diogo Duarte</h1>
-        <h2>PhD Cryptography Student - University of Porto and INESC-TEC</h2>
-    </div>
+    <h1>João Diogo Duarte</h1>
+    <p class="nav">
+        [ <a href="/">Home</a>
+        | <a href="/blog/">Blog</a>
+        | <a href="/blog/index.xml">RSS</a> ]
+    </p>
+
+    <hr>
+
+    <h2>PhD Cryptography Student - University of Porto and INESC-TEC</h2>
     <div class="image-container">
         <img src="me.jpg" alt="Picture" width="200"/>
         <img src="key.gif" alt="Picture" width="100"/>
     </div>
-
-    <hr>
 
     <p>
         My name is João Diogo Duarte, and I am a PhD student in Cryptography at the
@@ -55,7 +105,9 @@
         <li><a href="https://dblp.org/pid/360/1993.html">DBLP</a></li>
     </ul>
 
-    <p>
+    <hr>
+
+    <p class="footer">
         Contact: joao [AT] diogoduarte [DOT] pt
     </p>
 </body>
